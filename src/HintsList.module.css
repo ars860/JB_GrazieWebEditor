@@ -1,0 +1,24 @@
+.listBody {
+    z-index: 99;
+    background-color: white;
+    max-height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 3px;
+}
+
+.listBody > * {
+    padding: 5px 10px;
+    width: auto;
+}
+
+.listChild {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.noCorrections {
+    color: gray;
+}

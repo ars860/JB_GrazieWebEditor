@@ -1,0 +1,55 @@
+.headerBody {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.headerBody > * {
+    margin: 10px;
+}
+
+.documentName {
+    border: 0;
+    border-bottom: 1px solid black;
+}
+
+.documentName:focus {
+    outline: none;
+}
+
+.logo {
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.logo span {
+    margin: 0;
+    font-size: 23px;
+    color: blue;
+}
+
+.smallText {
+    margin: 0;
+    font-size: 80%;
+    color: gray;
+}
+
+.saveDocumentButton {
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    background-color: white;
+    border: 1px solid #CCCCCC;
+    cursor: pointer;
+}
+
+.saveDocumentButton:hover {
+    border: 1px solid #B3B3B3;
+}
+
+.saveDocumentButton:active {
+    border: 2px solid blue;
+}
