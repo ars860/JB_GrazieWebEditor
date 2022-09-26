@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JB_GrazieWebEditor/static/css/main.4fed2dce.chunk.css",
-    "main.js": "/JB_GrazieWebEditor/static/js/main.5da8efe2.chunk.js",
-    "main.js.map": "/JB_GrazieWebEditor/static/js/main.5da8efe2.chunk.js.map",
-    "runtime-main.js": "/JB_GrazieWebEditor/static/js/runtime-main.f9b693ed.js",
-    "runtime-main.js.map": "/JB_GrazieWebEditor/static/js/runtime-main.f9b693ed.js.map",
-    "static/css/2.dfab93b7.chunk.css": "/JB_GrazieWebEditor/static/css/2.dfab93b7.chunk.css",
-    "static/js/2.85754fa2.chunk.js": "/JB_GrazieWebEditor/static/js/2.85754fa2.chunk.js",
-    "static/js/2.85754fa2.chunk.js.map": "/JB_GrazieWebEditor/static/js/2.85754fa2.chunk.js.map",
+    "main.css": "/JB_GrazieWebEditor/static/css/main.0f19b799.chunk.css",
+    "main.js": "/JB_GrazieWebEditor/static/js/main.31d4b570.chunk.js",
+    "main.js.map": "/JB_GrazieWebEditor/static/js/main.31d4b570.chunk.js.map",
+    "runtime-main.js": "/JB_GrazieWebEditor/static/js/runtime-main.db25c7a5.js",
+    "runtime-main.js.map": "/JB_GrazieWebEditor/static/js/runtime-main.db25c7a5.js.map",
+    "static/css/2.eafaacdd.chunk.css": "/JB_GrazieWebEditor/static/css/2.eafaacdd.chunk.css",
+    "static/js/2.8f7b74ef.chunk.js": "/JB_GrazieWebEditor/static/js/2.8f7b74ef.chunk.js",
+    "static/js/2.8f7b74ef.chunk.js.map": "/JB_GrazieWebEditor/static/js/2.8f7b74ef.chunk.js.map",
     "index.html": "/JB_GrazieWebEditor/index.html",
-    "static/css/2.dfab93b7.chunk.css.map": "/JB_GrazieWebEditor/static/css/2.dfab93b7.chunk.css.map",
-    "static/css/main.4fed2dce.chunk.css.map": "/JB_GrazieWebEditor/static/css/main.4fed2dce.chunk.css.map",
-    "static/js/2.85754fa2.chunk.js.LICENSE.txt": "/JB_GrazieWebEditor/static/js/2.85754fa2.chunk.js.LICENSE.txt"
+    "static/css/2.eafaacdd.chunk.css.map": "/JB_GrazieWebEditor/static/css/2.eafaacdd.chunk.css.map",
+    "static/css/main.0f19b799.chunk.css.map": "/JB_GrazieWebEditor/static/css/main.0f19b799.chunk.css.map",
+    "static/js/2.8f7b74ef.chunk.js.LICENSE.txt": "/JB_GrazieWebEditor/static/js/2.8f7b74ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9b693ed.js",
-    "static/css/2.dfab93b7.chunk.css",
-    "static/js/2.85754fa2.chunk.js",
-    "static/css/main.4fed2dce.chunk.css",
-    "static/js/main.5da8efe2.chunk.js"
+    "static/js/runtime-main.db25c7a5.js",
+    "static/css/2.eafaacdd.chunk.css",
+    "static/js/2.8f7b74ef.chunk.js",
+    "static/css/main.0f19b799.chunk.css",
+    "static/js/main.31d4b570.chunk.js"
   ]
 }
