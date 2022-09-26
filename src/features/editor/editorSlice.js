@@ -7,7 +7,7 @@ const initialState = {
     documentName: '',
     supportedLanguages: [
         {name: 'english', download_name: 'English (American)'},
-        {name: 'mongolian', download_name: 'Mongolian'},
+        // {name: 'mongolian', download_name: 'Mongolian'},
         {name: 'spanish', download_name: 'Spanish'}
     ],
     status: 'idle',
@@ -18,8 +18,7 @@ export const downloadDictionaryAsync = createAsyncThunk(
     'editor/fetchCount',
     async (lang) => {
         console.log('downloading dict: ' + lang)
-        const res = await loadDictionaries(lang);
-        return res;
+        return await loadDictionaries(lang);
     }
 );
 
